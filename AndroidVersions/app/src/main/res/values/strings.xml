@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidVersions</string>
+    <string name="lblAndroidVersions">Versions of Android:</string>
+    <string name="rbIceCream">IceCream</string>
+    <string name="rbJellyBean">JellyBean</string>
+    <string name="rbKitKat">KitKat</string>
+    <string name="rbLollipop">Lollipop</string>
+</resources>
